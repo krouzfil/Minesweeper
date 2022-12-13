@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1670509996 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/Minesweeper/Minesweeper/main.cpp
+	"Minesweeper.h"
+	<iostream>
+
+1670318999 /home/krouzfil/Documents/Programovani_ing_aplikaci/Minesweeper/Minesweeper/include/Minesweeper.h
+	<string>
+	<vector>
+
+1670514933 source:/home/krouzfil/Documents/Programovani_ing_aplikaci/Minesweeper/Minesweeper/src/Minesweeper.cpp
+	"Minesweeper.h"
+	<queue>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<vector>
+
